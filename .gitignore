@@ -12,6 +12,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+.npm-cache/
+.pip-cache/
+.tmp/
+.test-data/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.db-journal
+*.db-wal
+*.db-shm
 
 # Python
 __pycache__/
